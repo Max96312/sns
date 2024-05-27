@@ -16,7 +16,7 @@ build/
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
-src/test/java
+src/test/java/
 
 ### IntelliJ IDEA ###
 .idea
